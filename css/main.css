@@ -413,6 +413,9 @@ p {
     margin: 25px;
     display: block;
   }
+  .home{
+    padding-top: 20px;
+  }
   .home .home_text {
     width: 100%;
   }
