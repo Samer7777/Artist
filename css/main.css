@@ -396,6 +396,9 @@ p {
   .my_header .navbar .navbar_menu_button {
     display: block;
   }
+    .my_header .navbar .navbar_menu_button:focus {
+    border: none;
+  }
   .my_header .navbar .navbar_list {
     position: fixed;
     flex-direction: column;
